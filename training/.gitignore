@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+pip.log
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.pytest_cache/
+
+# Virtual environment
+env/
+venv/
+venv_py3/
+myenv/
+
+# My project
+.vscode/
+.idea/
+.DS_Store
+
+# OS generated files
+.env
+.flaskenv
+*.sqlite3
+.DS_Store
