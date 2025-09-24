@@ -251,11 +251,10 @@ const HomePage = () => {
               </svg>
             </div>
             <h3 className="text-2xl font-semibold mb-4 text-gray-900 group-hover:text-primary-700 transition-colors duration-300">
-              Community Support
+              Disease Heat Map
             </h3>
             <p className="text-gray-600 text-lg">
-              Connect with other farmers to share knowledge and experiences
-              about plant health management
+              A real time disease heat map is generated to let you know which diseases are troubling the crops nearby
             </p>
           </motion.div>
         </motion.div>

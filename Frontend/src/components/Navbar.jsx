@@ -56,15 +56,16 @@ const Navbar = () => {
             >
               Plant Diagnosis
             </Link>
+
             <Link
-              to="/community"
+              to="/diseasemap"
               className={`text-base font-medium ${
                 isActive("/community")
                   ? "text-primary-700"
                   : "text-gray-600 hover:text-gray-900"
               }`}
             >
-              Community
+              Disease Map
             </Link>
             <Link
               to="/about"
